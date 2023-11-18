@@ -52,6 +52,19 @@ The data cleaning process involved the following steps:
  16. What is the adr across different months?
  17. Which distibution channel has the highest adr?
 
+### Solution to Business Objective
+
+ 1. Resort hotel is most preffered so management can offer discounts in city hotel to increase bookings.
+ 2. Around 27.52% of bookings are cancelled so hotels can offer layality discount if guests don't cancel their bookings.
+ 3. Bed and breakfast is the most preffered meal, so it should be prepared early and get served on time.
+ 4. Room type A is most preffered by guests, so hotel should increase the number of room type A.
+ 5. Number of repeated guests is low that indicates there is something guests don't like which needs to fixed inorder to increase number of repeated guests.
+ 6. Majority number of guests came from Portugal, so the management should market in that country inorder to have many more guests. 
+
+### Conclusion
+
+Inorder to achieve the business objective, I would suggest the client to make the price dynamic, introduce offers and packages to attract new customers. To retain the exitisting customers and ensure their repetition the client must introduce loyalty points program which can be redeemed by the customers in their next bookings. Amenities such as parking spaces, kids corner, free internet connection can be provided to increase the number of bookings.
+
 ### Documentation
 
 For detailed information, step by step explanations, code samples and documentation about the exploratory data analysis process please refer to the Jupyter notebook provided in the repository.
